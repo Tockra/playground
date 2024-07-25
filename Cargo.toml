@@ -1,0 +1,8 @@
+[package]
+name = "playground"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tokio = { version = "1.36.0", features = ["full"] }
+ctor = "0.2.8"
